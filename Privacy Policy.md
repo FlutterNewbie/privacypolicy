@@ -1,4 +1,3 @@
-# privacypolicy
 <h1>Privacy Policy for railenikeev</h1>
 
 <p>At MyConvertor, accessible from https://github.com/FlutterNewbie/privacypolicy, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by MyConvertor and how we use it.</p>
